@@ -6,3 +6,8 @@
 
 *Read [here](/release.md).**
 
+#**Club Photo and Media Release Form**
+
+*Read [here](/photo-release.md).**
+
+
