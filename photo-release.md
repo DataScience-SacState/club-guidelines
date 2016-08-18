@@ -4,7 +4,9 @@ In consideration of my opportunity to participate in Data Science Club("The Club
 
 * Interview me and/or record my participation in the Club and appearance on video tape, audio tape, film, photograph or any other media, whether now known or hereafter existing (the "Recordings").
 
-* Use my name, likeness, image and/or voice in connection with the Recordings. ● Use, reproduce, distribute, publicly display and/or publicly perform, either electronically or by any other media whether now known or hereafter existing, and to allow others to do the same, my name, likeness or voice, the Recordings, and/or copies of the materials listed below (the “Materials”), in whole or in part worldwide, without restrictions or limitations, in perpetuity, for any purpose including without limitation, promotional, educational or commercial use.
+* Use my name, likeness, image and/or voice in connection with the Recordings.
+
+* Use, reproduce, distribute, publicly display and/or publicly perform, either electronically or by any other media whether now known or hereafter existing, and to allow others to do the same, my name, likeness or voice, the Recordings, and/or copies of the materials listed below (the “Materials”), in whole or in part worldwide, without restrictions or limitations, in perpetuity, for any purpose including without limitation, promotional, educational or commercial use.
 
 * I agree to release The Club, its trustees, officers, employees, students and agents from any liability to me, and on behalf of my heirs, executors, administrators, legal representatives and assigns, based on or arising out of use of my name, likeness or voice, or the Recordings or Materials.
 
