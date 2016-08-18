@@ -16,5 +16,5 @@ At some point in the year we may have guest speakers in addition to student spea
 
 ###**Representing the club at outside events:**
 
-If we ever go to hackathons, meetups, or any other external events please follow the guidelines we would have at our internal events and be respectful. This includes any post-event events where we still congregate as a club. We're lucky to have a lot of connections with industry and the local tech scene, and insuring we're on our best behavior helps strengthens those connections and people's opinion of us.
+If we ever go to hackathons, meetups, or any other external events please follow the guidelines we would have at our internal events and be respectful. This includes any post-event events where we still congregate as a club. We're lucky to have a lot of connections with industry and the local tech scene, and ensuring we're on our best behavior helps strengthens those connections and people's opinion of us.
 
