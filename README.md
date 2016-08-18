@@ -4,5 +4,5 @@
 
 #**Club Release Form**
 
-**Read [here](/release.md).**
+*Read [here](/release.md).**
 
